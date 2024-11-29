@@ -2,9 +2,9 @@
 To-Dos
 
 ## Find and Import Stuff (FIS)
-- [ ] Add Projects from the Fachrat Gitlab
+- [x] Add Projects from the Fachrat Gitlab
 - [ ] Find all my Projects from
-    - [ ] my Laptop
+    - [x] my Laptop (i think)
     - [ ] my PC
     - [ ] my Server
 - [ ] Organize all data
